@@ -1,0 +1,49 @@
+body {
+    background-color: #242424;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    width: 100px;
+}
+
+tr > td:first-child, tr > th:first-child {
+    width: auto;
+}
+
+
+
+#computer
+{
+    background-color: #CC7365;
+}
+#lr
+{
+    background-color: #A6C971;
+}
+#culture
+{
+    background-color: #D89358;
+}
+#sw
+{
+    background-color: #8672BE;
+}
+#cprogramming
+{
+    background-color: #DDC997;
+}
+#writing
+{
+    background-color: #6AB4A5;
+}
+#math
+{
+    background-color: #6B8EC8;
+}
